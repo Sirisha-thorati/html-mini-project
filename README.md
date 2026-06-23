@@ -2,12 +2,12 @@
 A simple beginner-friendly multi-page website project including Home, About, Services and Contact pages built using only HTML.
 
 ## project structure
-  HTML-Mini-Project/
+  HTML-Mini-Project
       -Home.html
       -about.html
       -services.html
       -contact.html
-  images/
+  images
       -coffee_background.jpeg
       -coffee_img-1.jpeg
       -coffee_img-2.jpeg
